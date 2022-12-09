@@ -1,0 +1,21 @@
+$ ls
+150555 bch.lht
+276291 ccqfdznj.sqg
+dir csmqbhjv
+dir czdqfr
+dir fpfwfzrt
+192660 qnbzgp
+142026 rpphgdhp.jfr
+dir sqphfslv
+38077 tvpzh
+$ cd csmqbhjv
+$ ls
+52822 bch.lht
+dir dgj
+dir fmmblb
+dir hjwwtw
+dir mtmhst
+dir njsccfms
+dir wmjsvq
+$ cd dgj
+$ ls
